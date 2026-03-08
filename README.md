@@ -13,7 +13,7 @@ Try to guess the randomly generated number within 7 attempts!
 - Hint system:
   - "Too low" / "Too high"  
   - "Warm" (guess close to the answer)  
-  - "🔥 Very close!" (guess very close to the answer)
+  - "Very close!" (guess very close to the answer)
 
 ---
 
