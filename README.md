@@ -72,4 +72,4 @@ Karapet Mkrtchyan
 
 ## 📄 License
 
-[MIT License](LICENSE) (optional)
+[MIT License](LICENSE)
