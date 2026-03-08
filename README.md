@@ -61,7 +61,7 @@ Attempts left: 6
 
 Enter your guess: 58
 Too high! Try again!
-🔥 Very close!
+Very close!
 Attempts left: 5
 ```
 ## ✍️ Author
