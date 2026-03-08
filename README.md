@@ -39,8 +39,8 @@ Try to guess the randomly generated number within 7 attempts!
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/number-guessing-game.git
-cd number-guessing-game
+git clone https://github.com/Karapet2009/Python-Guessing-Game.git
+cd Python-Guessing-Game
 python main.py
 ```
 
